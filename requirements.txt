@@ -1,7 +1,0 @@
-requirements.txt
-
-streamlit
-pandas
-googlemaps
-ortools
-openpyxl
